@@ -124,7 +124,6 @@ def lematizar_pclave():
 
 # In[19]:
 
-
 def sword_otrasf():
     global stopword
   
